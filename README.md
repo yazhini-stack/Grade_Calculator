@@ -44,10 +44,12 @@ The main objective of this project is to:
 ## 🖼️ Project Screenshots
 
 ### Grade Calculator Interface
-![Grade Calculator](Grade%20Calculator.png)
+![Grade Cal](Grade%20Cal.png)
+
 
 ### Grade Calculation Output
-![Grade Cal](Grade%20Cal.png)
+![Grade Calculator](Grade%20Calculator.png)
+
 
 ## 📊 Outcome
 The Grade Calculator provides a simple and efficient way to evaluate student performance. It helps users quickly determine grades without manual calculations.
