@@ -1,47 +1,56 @@
-📊 Grade Calculator
+# 📊 Grade Calculator
 
-📌 Project Description
+## 📌 Project Overview
+The **Grade Calculator** is a simple application designed to calculate a student's **total marks, average, percentage, and final grade** based on marks obtained in different subjects.  
+This project helps automate the grading process, reduces manual errors, and provides quick and accurate results.
 
+## 🎯 Objective
+The main objective of this project is to:
+- Store student marks
+- Calculate total marks and average
+- Automatically assign grades
+- Display the final result clearly
 
-The Grade Calculator is a simple system used to calculate a student's total marks, average, percentage, and final grade based on the marks obtained in different subjects. It helps automate the grading process and reduces manual calculation errors.
+## ⚙️ Features
+- Enter student details
+- Input marks for multiple subjects
+- Automatic calculation of total marks
+- Average and percentage calculation
+- Grade generation based on grading criteria
+- Simple and user-friendly interface
 
+## 🛠️ Technologies Used
+- Programming Language: (Specify your language – e.g., Java / Python / C++)
+- IDE/Editor: VS Code / Eclipse / IntelliJ
+- Database (Optional): MySQL / SQLite
 
-🎯 Objective
+## 🧮 Working Process
+1. The user enters the student name and marks for each subject.
+2. The system processes the input data.
+3. Total marks and average are calculated automatically.
+4. Based on the average score, the system assigns a grade.
+5. The final result is displayed.
 
+## 📈 Grading Criteria
 
-The objective of this project is to develop a system that can:
+| Percentage | Grade |
+|------------|-------|
+| 90 – 100   | A     |
+| 80 – 89    | B     |
+| 70 – 79    | C     |
+| 60 – 69    | D     |
+| Below 60   | F     |
 
-Store student marks
-Calculate total and average marks
-Assign grades automatically based on marks
-Display the final result clearly
+## 🖼️ Project Screenshots
 
-⚙️ Features
-Enter student details
-Input marks for multiple subjects
-Automatic calculation of total and average
-Grade generation based on predefined criteria
-Easy and fast result evaluation
+### Grade Calculator Interface
+![Grade Calculator](Grade%20Calculator.png)
 
-🛠️ Technologies Used
-Programming Language: (Example: Python / Java / C++)
-Database: (Optional – MySQL / SQLite)
-Development Tool: VS Code / Eclipse / IntelliJ
+### Grade Calculation Output
+![Grade Cal](Grade%20Cal.png)
 
-🧮 Working Process
-The user enters the student name and subject marks.
-The system calculates the total marks and average.
-Based on the average score, the system assigns a grade.
-The final result is displayed to the user.
+## 📊 Outcome
+The Grade Calculator provides a simple and efficient way to evaluate student performance. It helps users quickly determine grades without manual calculations.
 
-📈 Example Grading System
-Percentage	Grade
-90 – 100	A
-80 – 89	B
-70 – 79	C
-60 – 69	D
-Below 60	F
-
-📊 Outcome
-
-The Grade Calculator helps in quickly evaluating student performance and provides accurate results without manual calculations.
+## 👩‍💻 Author
+Developed as part of a **student academic project**.
